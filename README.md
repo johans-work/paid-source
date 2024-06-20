@@ -1,4 +1,4 @@
-# paid-source
+# The Paid Source License
 
 A standardized value proposition for the ownership of source available software and digital copiable products, for anyone struggling to monetize their work.
 
