@@ -6,7 +6,7 @@ A model for selling source available software and digital goods.
 
 Almost all transactions have no legal or government intervention or support. You could sue, but you won't. They could sue, but they won't. Transactions of small amounts just are not worth it.
 
-So whether you realized it or not, licensing really is meaningless. Whether you adopt a fancy open source license, a dual license, or a restrictive proprietary license, those that pay will pay, those that don't won't, and the decision will mostly be based on the value proposition. Is paying convenient, and what you get in return.
+So whether you realized it or not, licensing really is meaningless. Whether you adopt a fancy open source license, a dual license, or a restrictive proprietary license, those that pay will pay, those that don't won't, and the decision will mostly be based on convenience and emotion.
 
 The problem with most free software projects is not only is paying inconvenient, but the consumer already has the product. There is no value proposition there, beyond donations. The same can be said about blogs. Even with the best content, the reader may have already read it, and paying is an inconvenient choir. And if the price is cheap, why even bother? 
 
