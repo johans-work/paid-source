@@ -1,6 +1,6 @@
 # Paid Source
 
-A value proposition and ownership model for source available software and digital goods.
+A standardized value proposition for the ownership of source available software and digital goods.
 
 # How It Works
 
