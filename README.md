@@ -1,17 +1,18 @@
 # Paid Source
 
-A way to sell ownership of source available software and digital goods.
+A model for selling source available software and digital goods.
 
 # Background
 
-There is a grave misunderstanding of the legal system and of transactions in general, especially when it comes to commerce.
+Almost all transactions have no legal or government intervention or support. You could sue, but you won't. They could sue, but they won't. Transactions of small amounts just are not worth it.
 
-There is little to no litigation against consumers that steal or don't pay or commit petty fraud. Not even shoplifting anymore. And not even by the IRS for taxes. The government simply does not have the resources, nor the interest, to go after such cases, beyond scare tactics.
+So whether you realized it or not, licensing really is meaningless. Whether you adopt a fancy open source license, a dual license, or a restrictive proprietary license, those that pay will pay, those that don't won't, and the decision will mostly be based on the value proposition. Is paying convenient, and what you get in return.
 
-In other words, almost all transactions have no legal or government intervention or support. But the good news is, they never required it.
+The problem with most free software projects is not only is paying inconvenient, but the consumer already has the product. There is no value proposition there, beyond donations. The same can be said about blogs. Even with the best content, the reader may have already read it, and paying is an inconvenient choir. And if the price is cheap, why even bother? 
 
-We are perfectly capable of making an honest transaction, and we pay our taxes one way or the other. Fulfilling a social contract is common sense for most of us.
+But the good news is, transactions never required legal legitimacy. 
 
+They only require logistics of value.
 
 
 # Buying
