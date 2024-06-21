@@ -20,7 +20,7 @@ Ownership may come with further perks. Referral kickbacks optional.
 
 Almost all transactions have no legal or government intervention or support. You could sue, they could sue, but we won't. Even shoplifters walk. So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it. 
 
-But, those that pay will pay, if you are selling something.
+But, those that pay will pay, if you propose something. A value proposition.
 
 It helps to know the psychology and logistics of value. With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations.
 
