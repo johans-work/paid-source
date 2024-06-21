@@ -6,13 +6,15 @@ A model for selling source available software and digital goods.
 - $y for a business to own a copy.
 - $z for help and other services.
 
-You're selling the right to say "I own this" and for it to be true.
+You're selling the right to say "I own this" and for it to be true. Free the free copies, and let each serve as a lead to the next sale. 
 
 You're a business if it's a business expense.
 
 Owners can do anything except misrepresent origin, identity, or authorship of their copy.
 
-Copies may be freely redistributed, but ownership is non-transferable, and can only be sold by the author.
+Copies may be freely redistributed, but ownership is non-transferable, and can only be sold by the author. 
+
+Ownership may come with further perks.
 
 # Background
 
