@@ -14,6 +14,8 @@ No one pays for closed books and financial books don't charge based on financial
 
 What you can't do is sell copies or pretend you wrote the book or plagiarize. But for all practical intent and purposes, the copy of that book is yours.
 
-Paid source is the equivalent of the book model to digital goods, including software.
-
 Most books, like software, are also written by single authors, and are a labor of love.
+
+Paid source is the equivalent of books for digital goods, including software, and digital books.
+
+
