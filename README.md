@@ -18,9 +18,11 @@ Ownership may come with further perks. Referral kickbacks optional.
 
 # Background
 
-Almost all transactions have no legal or government intervention or support. You could sue, but you won't. They could sue, but they won't. And they don't even arrest shoplifters anymore. Transactions of small amounts just are not worth it.
+Almost all transactions have no legal or government intervention or support. You could sue, but you won't. They could sue, but they won't. Even shoplifters walk. Transactions of small amounts just are not worth it.
 
-So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it, but those that pay will pay. But first, you need to sell somethingk, and understand the psychology but also the logistics.
+So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it. 
+
+But, those that pay will pay. If you sell something, and if you understand the psychology and logistics of value.
 
 With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations.
 
