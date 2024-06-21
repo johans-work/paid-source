@@ -5,7 +5,9 @@ A value proposition and ownership model for source available software and digita
 # How It Works
 
 The buyer pays the author a one time price for ownership of a copy and proof of purchase.
+
 The buyer will not misrepresent origin, identity, or authorship of the copy.
+
 The buyer may distribute links to the paid source listing, but never copies themselves, so long as the author maintains their listing.
 
 # Books
