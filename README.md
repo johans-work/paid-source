@@ -24,14 +24,11 @@ With most free software and digital content, not only is paying inconvenient, bu
 
 The innovation with selling digital copies hasn't come with new laws and policing, but value logistics. 
 
-The registration key system sells the keys, not the software. The key then unlocks features. 
+The registration key system sells the keys, not the software. The key then unlocks features. The subscription system sells access. And larger businesses have always paid for support, training, and less liabilty.
 
-The subscription system sells access. Without access, you cannot use the software.
+Paid source is about value logistics.
 
-And enterprises have always paid for customer service and training.
-
-Paid source offers a simple value logistics template.
-
+Instead of selling the copy, you are selling ownership. You are selling the right to say, "I own this!" and for it to be true.
 
 # Buying
 
