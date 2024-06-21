@@ -18,9 +18,7 @@ Ownership may come with further perks. Referral kickbacks optional.
 
 # Background
 
-Almost all transactions have no legal or government intervention or support. You could sue, they could sue, but we won't. Even shoplifters walk. Transactions of small amounts just are not worth it.
-
-So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it. 
+Almost all transactions have no legal or government intervention or support. You could sue, they could sue, but we won't. Even shoplifters walk. So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it. 
 
 But, those that pay will pay, if you are selling something.
 
