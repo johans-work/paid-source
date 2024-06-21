@@ -2,13 +2,13 @@
 
 A model for selling source available software and digital goods.
 
-- $x for an individual to own copy.
+- $x for an individual to own a copy.
 - $y for a business to own a copy.
 - $z for help and other services.
 
 Owners can do anything except misrepresent origin, identity, or authorship of their copy.
-Copies may be freely redistributed, but ownership can only be sold by the author.
 
+Copies may be freely redistributed, but ownership can only be sold by the author.
 
 # Background
 
