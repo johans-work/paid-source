@@ -2,6 +2,18 @@
 
 A way to sell ownership of source available software and digital goods.
 
+# Background
+
+There is a grave misunderstanding of the legal system and of transactions in general, especially when it comes to commerce.
+
+There is little to no litigation against consumers that steal or don't pay or commit petty fraud. Not even shoplifting anymore. And not even by the IRS for taxes. The government simply does not have the resources, nor the interest, to go after such cases, beyond scare tactics.
+
+In other words, almost all transactions have no legal or government intervention or support. But the good news is, they never required it.
+
+We are perfectly capable of making an honest transaction, and we pay our taxes one way or the other. Fulfilling a social contract is common sense for most of us.
+
+
+
 # Buying
 
 The buyer pays the author a one time price for ownership of a copy and proof of purchase.
