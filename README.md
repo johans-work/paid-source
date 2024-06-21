@@ -2,13 +2,21 @@
 
 A way to sell ownership of source available software and digital goods.
 
-# How It Works
+# Buying
 
 The buyer pays the author a one time price for ownership of a copy and proof of purchase.
 
 The buyer will not misrepresent origin, identity, or authorship of the copy.
 
-The buyer may distribute links to the paid source listing, but never copies themselves, so long as the author maintains their listing.
+The buyer may distribute copies, and recipients can decide whether they purchase ownership from the author.
+
+# Selling
+
+The author must maintain a listing with a way to buy the product.
+
+
+
+
 
 # Just Like Books
 
