@@ -22,9 +22,9 @@ Almost all transactions have no legal or government intervention or support. You
 
 So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it. 
 
-But, those that pay will pay, but you need to be selling something, and iot helps to understand the psychology and logistics of value.
+But, those that pay will pay, if you are selling something.
 
-With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations.
+It helps to know the psychology and logistics of value. With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations.
 
 The innovation with selling digital copies hasn't come with new laws and policing, but value logistics. 
 
