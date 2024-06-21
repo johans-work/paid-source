@@ -2,7 +2,7 @@
 
 An experiment in value logistics for source available software and digital goods.
 
-Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for the next sale. 
+Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for the next sale. Give copies, sell ownership. 
 
 - $x for an individual to own a copy.
 - $y for a business to own a copy.
@@ -32,7 +32,7 @@ The registration key system sells the keys, not the software. The key then unloc
 
 Paid source is about value logistics.
 
-Instead of selling the copy, you are selling ownership. 
+
 
 # Buying
 
