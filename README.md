@@ -6,11 +6,13 @@ A model for selling source available software and digital goods.
 - $y for a business to own a copy.
 - $z for help and other services.
 
+You're a business if it's a business expense.
+
 Owners can do anything except misrepresent origin, identity, or authorship of their copy.
 
 Copies may be freely redistributed, but ownership is non-transferable and can only be sold by the author.
 
-If you are claiming the purchase as a business expense, you are a business.
+
 
 # Background
 
