@@ -20,7 +20,7 @@ Ownership may come with further perks. Referral kickbacks optional.
 
 Almost all transactions have no legal or government intervention or support. You could sue, but you won't. They could sue, but they won't. And they don't even arrest shoplifters anymore. Transactions of small amounts just are not worth it.
 
-So whether you realized it or not, most licenses and copyright and ip laws really are meaningless. Whether open source or proprietary, those that pay will pay, those that don't won't, and the decision will mostly be based on convenience and the nature of the transaction.
+So whether you realized it or not, most licenses and copyright and ip laws really are meaningless for most of us. Whether open source or proprietary, those that pay will pay, those that don't won't, and the decision will mostly be based on convenience and the nature of the transaction.
 
 With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations.
 
