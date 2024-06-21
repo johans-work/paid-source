@@ -6,13 +6,13 @@ A model for selling source available software and digital goods.
 - $y for a business to own a copy.
 - $z for help and other services.
 
+You're selling the right to say "I own this" and for it to be true.
+
 You're a business if it's a business expense.
 
 Owners can do anything except misrepresent origin, identity, or authorship of their copy.
 
-Copies may be freely redistributed, but ownership is non-transferable and can only be sold by the author.
-
-
+Copies may be freely redistributed, but ownership is non-transferable, and can only be sold by the author.
 
 # Background
 
@@ -28,7 +28,7 @@ The registration key system sells the keys, not the software. The key then unloc
 
 Paid source is about value logistics.
 
-Instead of selling the copy, you are selling ownership. You are selling the right to say, "I own this!" and for it to be true.
+Instead of selling the copy, you are selling ownership. 
 
 # Buying
 
