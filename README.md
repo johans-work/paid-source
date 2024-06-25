@@ -28,7 +28,7 @@ The innovation with selling digital copies hasn't come with new laws and policin
 
 The registration key system sells the keys, not the software. The key then unlocks features. The subscription system sells access. And larger businesses have always paid for support, training, and less liabilty.
 
-Paid source is about value logistics.
+Paid source is about value logistics. Use it for as a convenient way to get paid for your work, for both the buyer and you.
 
 
 
