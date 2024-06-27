@@ -1,6 +1,6 @@
 # Paid Source
 
-Give copies, sell ownership. An experiment in value logistics for source available software and digital goods.
+Give copies, sell ownership. An experiment in value logistics for source available software and digital goods. Use it as a convenient way to get paid for your work, for both the buyer and you.
 
 Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for your next sale. 
 
@@ -22,17 +22,15 @@ Value logistics determine sales, not policing or the law.
 
 Almost all transactions have no legal or government intervention or support. You could sue, they could sue, but we won't. Even shoplifters walk. So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it. 
 
-But, those that pay will pay, if you propose something. A value proposition.
+But, those that pay will pay, if you propose a deal - a value proposition.
 
-It helps to know the psychology and logistics of value. With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations.
+With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations. Hence, all the calls for donations.
 
-The innovation with selling digital copies hasn't come with new laws and policing, but value logistics. 
+The innovation with selling digital copies has always been with logistics. 
 
-The registration key system sells the keys, not the software. The key then unlocks features. The subscription system sells access. And larger businesses have always paid for support, training, and less liabilty.
+CDs and DVDs rely on plastic to sell copies. The registration key system sells the keys, not the software. The subscription system sells access. And larger businesses have always paid for support, training, and for decrease in liabilty.
 
-Paid source is about value logistics. Use it as a convenient way to get paid for your work, for both the buyer and you.
-
-
+Paid source is about value logistics. Use the keyword "ownership" to sell ownership, and give them more than they would receive through any other method.
 
 # Buying
 
