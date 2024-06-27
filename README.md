@@ -14,7 +14,9 @@ Owners can do anything except misrepresent origin, identity, or authorship of th
 
 Copies may be freely redistributed, but ownership is non-transferable, and can only be sold by the author. 
 
-Ownership may come with further perks. Referral kickbacks optional.
+Ownership may come with further perks. 
+
+Referral kickbacks optional.
 
 # Background
 
