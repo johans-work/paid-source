@@ -1,6 +1,6 @@
 # Paid Source
 
-Give copies, sell ownership. An experiment in value logistics for source available software and digital goods. Use it as a convenient way to get paid for your work, for both the buyer and you.
+Give copies, sell ownership. An experiment in value logistics for source available software and digital goods. A new convenient way to get paid for your work, for both the buyer and you.
 
 Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for your next sale. 
 
