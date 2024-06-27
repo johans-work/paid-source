@@ -1,8 +1,8 @@
 # Paid Source
 
-An experiment in value logistics for source available software and digital goods.
+Give copies, sell ownership. An experiment in value logistics for source available software and digital goods.
 
-Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for the next sale. Give copies, sell ownership. 
+Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for your next sale. 
 
 - $x for an individual to own a copy.
 - $y for a business to own a copy.
