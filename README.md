@@ -10,10 +10,24 @@ Sell the right to say "I own this" and for it to be true. Give copies, sell owne
 
 # Why does it work?
 
+Value logistics determine sales, not policing or the law.
+
+Almost all transactions have no legal or government intervention or support. You could sue, they could sue, but we won't. Even shoplifters walk. So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it. 
+
+But, those that pay will pay, if you propose a deal - a value proposition.
+
+With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations. Hence, all the calls for donations.
+
+The innovation with selling digital copies has always been with logistics. 
+
+CDs and DVDs rely on plastic to sell copies. The registration key system sells the keys, not the software. The subscription system sells access. And larger businesses have always paid for support, training, and for decrease in liabilty.
+
+Paid source is about value logistics. Use the keyword "ownership" to sell ownership, and give them more than they would receive through any other method.
+
 
 # Disclaimers
 
-The term "open source" is avoided to avoid any conflicts with other definitions or politics. However, the source is available, visible, and free.
+We avoid the term "open source" to avoid conflicts with other definitions or politics. However, the source is available, visible, and free.
 
 
 
@@ -36,21 +50,7 @@ Ownership may come with further perks.
 
 Referral kickbacks optional.
 
-# Background
 
-Value logistics determine sales, not policing or the law.
-
-Almost all transactions have no legal or government intervention or support. You could sue, they could sue, but we won't. Even shoplifters walk. So licenses and copyright laws really are meaningless to most of us. Whether you own it, they'll steal it. 
-
-But, those that pay will pay, if you propose a deal - a value proposition.
-
-With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations. Hence, all the calls for donations.
-
-The innovation with selling digital copies has always been with logistics. 
-
-CDs and DVDs rely on plastic to sell copies. The registration key system sells the keys, not the software. The subscription system sells access. And larger businesses have always paid for support, training, and for decrease in liabilty.
-
-Paid source is about value logistics. Use the keyword "ownership" to sell ownership, and give them more than they would receive through any other method.
 
 # Buying
 
