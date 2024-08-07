@@ -2,7 +2,7 @@
 
 # Paid Source
 
-Paid Source is a new convenient way to get paid for your work, for both the buyer and you. Think of it as a social experiment in value logistics for source available software and digital goods. 
+A new convenient way to get paid for your digital work, for both the buyer and you. 
 
 # How does it work?
 
