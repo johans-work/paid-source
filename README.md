@@ -4,10 +4,11 @@
 
 Paid Source is a new convenient way to get paid for your work, for both the buyer and you. Think of it as a social experiment in value logistics for source available software and digital goods. 
 
-Give copies, sell ownership. Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for your next sale. 
-
 # How does it work?
 
+Sell the right to say "I own this" and for it to be true. Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale. 
+
+# Why does it work?
 
 
 # Disclaimers
