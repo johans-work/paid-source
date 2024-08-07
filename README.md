@@ -30,13 +30,9 @@ With most free software and digital content, not only is paying inconvenient, bu
 
 
 
-# Disclaimers
+# Is it open source?
 
-We avoid the term "open source" to avoid conflicts with other definitions or politics. However, the source is available, visible, and free.
-
-
-
-
+The term "open source" is avoided to avoid conflicts with other definitions or politics. However, your source, and the work, is made available, visible, and free, even before any transactions take place.
 
 
 # Basic Pricing Template
