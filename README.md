@@ -12,7 +12,7 @@ Sell the right to say "I own this" and for it to be true. Give copies, sell owne
 
 Despite what we are led to believe, almost all transactions have no legal or government support, and licenses and copyright laws really are meaningless to most of us. For most of us, we could steal if we wanted to, but choose not to.
 
-We pay because we want to, and because we love ownership.
+We pay because we want to, and because we love ownership. But also because we fear the shame in getting caught, not just the legal ramifications.
 
 The innovation with selling digital copies has always been with logistics, and not with policing or the law.
 
