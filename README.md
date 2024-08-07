@@ -2,9 +2,24 @@
 
 # Paid Source
 
-Give copies, sell ownership. An experiment in value logistics for source available software and digital goods. A new convenient way to get paid for your work, for both the buyer and you.
+Paid Source is a new convenient way to get paid for your work, for both the buyer and you. Think of it as a social experiment in value logistics for source available software and digital goods. 
 
-Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for your next sale. 
+Give copies, sell ownership. Sell the right to say "I own this" and it to be true. Free the free copies, and turn them into leads for your next sale. 
+
+# How does it work?
+
+
+
+# Disclaimers
+
+The term "open source" is avoided to avoid any conflicts with other definitions or politics. However, the source is available, visible, and free.
+
+
+
+
+
+
+# Basic Pricing Template
 
 - $x for an individual to own a copy.
 - $y for a business to own a copy.
