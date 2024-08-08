@@ -14,7 +14,9 @@ Almost all transactions have no legal or government enforcement, and licenses an
 
 For most of us, we pay because we want to, and because we love ownership. We also recognize it's the right thing to do, and don't consider ourselves bad actors. We honor the transaction. 
 
-Fear also does exist. However, beyond legal ramifications (which are mostly false), there is shame. There's public humiliation and being ashamed of stealing which happens within us, as does the thrill of getting away with it, for the bad actors among us.
+Fear also does exist. However, beyond legal ramifications (which are mostly false), there is shame. There's public humiliation and there's internal shame, along with the thrill of getting away with it for the bad actors among us. But to steal, there must be betrayal, and to pay, there must be a transaction. Transactions happen when two parties agree on the value proposition, and ideally only happens in win-win situation. 
+
+The buyer receives goods worth more than they are paying, and the seller receives compensation greater than the cost of goods -- capitalism working.
 
 The innovation with selling digital copies has always been with logistics, and not with policing or the law.
 
