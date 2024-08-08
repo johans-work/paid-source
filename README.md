@@ -10,9 +10,11 @@ Sell the right to say "I own this" and for it to be true. Give copies, sell owne
 
 # Why does it work?
 
-Despite what we are led to believe, almost all transactions have no legal or government support, and licenses and copyright laws really are meaningless to most of us. 
+Almost all transactions have no legal or government enforcement, and licenses and copyright laws really are meaningless to average consumers. Lawyers are only for big fish, and the police don't arrest consumers for lying their order was stolen. Bad actors exist, but they're a minority, and chalked up as the cost of doing business.
 
-For most of us, we pay because we want to, and because we love ownership. But also because we fear the shame in getting caught, not just the legal ramifications.
+For most of us, we pay because we want to, and because we love ownership. We also recognize it's the right thing to do, and don't consider ourselves bad actors. We honor the transaction. 
+
+Fear also does exist. However, beyond legal ramifications (which are mostly false), there is shame. There's public humiliation and being ashamed of stealing which happens within us, as does the thrill of getting away with it, for the bad actors among us.
 
 The innovation with selling digital copies has always been with logistics, and not with policing or the law.
 
