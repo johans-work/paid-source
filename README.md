@@ -32,7 +32,7 @@ Think of Paid Source as value logistics.
 
 With most free software and digital content, you've already given the consumer the product. The transaction already happened. There is no value proposition left. Hence, the call for donations. But you're not offeriing anything in return. That's not a value proposition. It's charity. It's not capitalism.
 
-Paid Source is simply about getting your value logistics right, by making the value proposition transparent and timely, and by providing a convenient way to pay. Their receipt will act as proof of ownership, and grant them ownership rights.
+Paid Source is simply about getting your value logistics right, by making the value proposition transparent and timely, and by providing a convenient way to pay. Their receipt will act as proof of ownership, and grant them ownership rights. And in exchange, you get paid.
 
 
 
