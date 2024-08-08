@@ -20,7 +20,7 @@ Today, and especially online, almost all transactions have no legal or governmen
 
 For most of us, we pay because we want to, and because we love ownership. We also recognize it's the right thing to do, and don't consider ourselves bad actors. We honor the transaction. 
 
-Fear also does exist. However, beyond legal ramifications (which are mostly false), there is shame. There's public humiliation and there's internal shame, along with the thrill of getting away with it for the bad actors among us. 
+Fear also does exist. However, beyond legal ramifications (which are mostly false), there is shame. There's public humiliation and there's internal shame, along with the thrill of getting away with it if being bad. 
 
 But to steal, there must be betrayal, and to pay, there must be a transaction. Transactions happen when two parties agree on the value proposition, which ideally only happens in a win-win situation. The buyer receives goods worth more than they're paying, and the seller receives compensation greater than the cost of goods. This is capitalism working. This is capitalism at work. 
 
