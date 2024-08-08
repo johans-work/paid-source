@@ -14,7 +14,7 @@ Simply include a link to your product profile which shows cost of ownership alon
 
 As a buyer, you already recognize how easy and free making copies are. There is no value in a copy. But there is value in ownership. You would pay for ownership.
 
-Almost all transactions have no legal or government enforcement, and licenses and copyright laws really are meaningless to average consumers. Lawyers only chase big fish, and the police don't arrest liars insisting their order was stolen. Bad actors exist, but they're a minority, and mostly chalked up as the cost of doing business even by the banks and credit card companies.
+Almost all transactions have no legal or government enforcement, and licenses and copyright laws really are meaningless to average consumers. Lawyers only chase big fish, and the police don't arrest liars insisting their order was stolen. Bad actors exist, but they're a minority, and mostly chalked up as the cost of doing business, even by the banks, even by the credit card companies, and even by the government.
 
 For most of us, we pay because we want to, and because we love ownership. We also recognize it's the right thing to do, and don't consider ourselves bad actors. We honor the transaction. 
 
