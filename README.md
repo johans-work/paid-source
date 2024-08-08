@@ -22,9 +22,9 @@ For most of us, we pay because we want to, and because we love ownership. We als
 
 Fear also does exist. However, beyond legal ramifications (which are mostly false), there is shame. There's public humiliation and there's internal shame, along with the thrill of getting away with it if being bad. 
 
-But to steal, there must be betrayal, and to pay, there must be a transaction. Transactions happen when two parties agree on the value proposition, which ideally only happens in a win-win situation. The buyer receives goods worth more than they're paying, and the seller receives compensation greater than the cost of goods. This is capitalism working. This is capitalism at work. 
+But to steal, there must be betrayal, and to pay, there must be a transaction. Transactions happen when two parties agree on the **value proposition**, which ideally only happens in a win-win situation. The buyer receives goods worth more than they're paying, and the seller receives compensation greater than the cost of goods. This is capitalism working. This is capitalism at work. 
 
-The way value is proposed and delivered is your value logistics. The greatest take-away here is in understanding that the innovation with selling digital copies has always been with logistics, and never with policing or the law.
+The way value is proposed and delivered is your **value logistics**. The greatest take-away here is in understanding that the innovation with selling digital copies has always been with logistics, and never with policing or the law.
 
 CDs and DVDs rely on plastic to sell copies. The registration key system sells the keys, not the software. The subscription system sells access. And larger businesses love paying for support, training, and less liabilty, which are all upsells.
 
