@@ -8,7 +8,7 @@ A new convenient way to get paid for your digital work, for both the buyer and y
 
 Sell the right to say "I own this" and for it to be true. Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale. 
 
-Simply include a link to your author profile and product profile that provides clear terms of ownership, the price, and convenient ways to pay.
+Simply include a link to your profile and the product profile that provides clear terms of ownership, the price, and convenient ways to pay.
 
 # Why does it work?
 
