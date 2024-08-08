@@ -14,24 +14,19 @@ Almost all transactions have no legal or government enforcement, and licenses an
 
 For most of us, we pay because we want to, and because we love ownership. We also recognize it's the right thing to do, and don't consider ourselves bad actors. We honor the transaction. 
 
-Fear also does exist. However, beyond legal ramifications (which are mostly false), there is shame. There's public humiliation and there's internal shame, along with the thrill of getting away with it for the bad actors among us. But to steal, there must be betrayal, and to pay, there must be a transaction. Transactions happen when two parties agree on the value proposition, and ideally only happens in win-win situation. 
+Fear also does exist. However, beyond legal ramifications (which are mostly false), there is shame. There's public humiliation and there's internal shame, along with the thrill of getting away with it for the bad actors among us. 
 
-The buyer receives goods worth more than they are paying, and the seller receives compensation greater than the cost of goods -- capitalism working.
+But to steal, there must be betrayal, and to pay, there must be a transaction. Transactions happen when two parties agree on the value proposition, which ideally only happens in a win-win situation. The buyer receives goods worth more than they're paying, and the seller receives compensation greater than the cost of goods. This is capitalism working. This is capitalism at work. 
 
-The innovation with selling digital copies has always been with logistics, and not with policing or the law.
+The way value is proposed and delivered is your value logistics. The greatest take-away here is in understanding that the innovation with selling digital copies has always been with logistics, and never with policing or the law.
 
-CDs and DVDs rely on plastic to sell copies. The registration key system sells the keys, not the software. The subscription system sells access. And larger businesses have always happily paid for support, training, and for decrease in liabilty.
+CDs and DVDs rely on plastic to sell copies. The registration key system sells the keys, not the software. The subscription system sells access. And larger businesses love paying for support, training, and less liabilty, which are all upsells.
 
-Paid source is about value logistics. 
+Paid Source is about value logistics. 
 
-Use the keyword "ownership" to sell ownership, and give them more than they would receive through any other method.
+With most free software and digital content, you've already given the consumer the product. The transaction already happened. There is no value proposition left. Hence, the call for donations. But you're not offeriing anything in return. That's not a value proposition. It's charity. It's not capitalism.
 
-You could sue, they could sue, but we won't. Even shoplifters walk. So  Whether you own it, they'll steal it. 
-
-But, those that pay will pay, if you propose a deal - a value proposition.
-
-With most free software and digital content, not only is paying inconvenient, but the consumer already has the product. The transaction already happened. There is no value proposition left, beyond donations. Hence, all the calls for donations.
-
+Paid Source is simply about getting your value logistics right, by making the value proposition transparent and timely, getting the numbers right, and by providing a convenient way to pay.
 
 
 # Is it open source?
