@@ -28,7 +28,7 @@ The way value is proposed and delivered is your **value logistics**. The greates
 
 CDs and DVDs rely on plastic to sell copies. The registration key system sells the keys, not the software. The subscription system sells access. And larger businesses love paying for support, training, and less liabilty, which are all upsells.
 
-Paid Source is about value logistics. 
+Think of Paid Source as value logistics. 
 
 With most free software and digital content, you've already given the consumer the product. The transaction already happened. There is no value proposition left. Hence, the call for donations. But you're not offeriing anything in return. That's not a value proposition. It's charity. It's not capitalism.
 
