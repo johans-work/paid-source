@@ -12,6 +12,8 @@ Simply include a link to your product profile which shows cost of ownership alon
 
 # Why does it work?
 
+As a buyer, you already recognize how easy and free making copies are. There is no value in a copy. But there is value in ownership. You would pay for ownership.
+
 Almost all transactions have no legal or government enforcement, and licenses and copyright laws really are meaningless to average consumers. Lawyers are only for big fish, and the police don't arrest consumers for lying their order was stolen. Bad actors exist, but they're a minority, and mostly chalked up as the cost of doing business even for the banks and credit card companies.
 
 For most of us, we pay because we want to, and because we love ownership. We also recognize it's the right thing to do, and don't consider ourselves bad actors. We honor the transaction. 
@@ -28,7 +30,8 @@ Paid Source is about value logistics.
 
 With most free software and digital content, you've already given the consumer the product. The transaction already happened. There is no value proposition left. Hence, the call for donations. But you're not offeriing anything in return. That's not a value proposition. It's charity. It's not capitalism.
 
-Paid Source is simply about getting your value logistics right, by making the value proposition transparent and timely, getting the numbers right, and by providing a convenient way to pay.
+Paid Source is simply about getting your value logistics right, by making the value proposition transparent and timely, and by providing a convenient way to pay. Their receipt will act as proof of ownership, and grant them ownership rights.
+
 
 
 # Is it open source?
