@@ -10,7 +10,7 @@ Sell the right to say "I own this" and for it to be true. Give copies, sell owne
 
 # Why does it work?
 
-Almost all transactions have no legal or government enforcement, and licenses and copyright laws really are meaningless to average consumers. Lawyers are only for big fish, and the police don't arrest consumers for lying their order was stolen. Bad actors exist, but they're a minority, and chalked up as the cost of doing business.
+Almost all transactions have no legal or government enforcement, and licenses and copyright laws really are meaningless to average consumers. Lawyers are only for big fish, and the police don't arrest consumers for lying their order was stolen. Bad actors exist, but they're a minority, and mostly chalked up as the cost of doing business even for the banks and credit card companies.
 
 For most of us, we pay because we want to, and because we love ownership. We also recognize it's the right thing to do, and don't consider ourselves bad actors. We honor the transaction. 
 
