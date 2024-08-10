@@ -2,7 +2,7 @@
 
 # Paid Source
 
-A new convenient way to get paid for your digital work, for both the buyer and you. 
+A new convenient way to get paid for your digital work, for both the buyer and you, backed by capitalism and scientific evidence. 
 
 # How does it work?
 
