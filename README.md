@@ -73,7 +73,7 @@ The buyer may distribute copies, and recipients can decide whether they purchase
 
 # Selling
 
-The author must maintain a listing with a way to buy the product.
+The author must maintain a public listing that describes the product and how to pay for the product.
 
 
 
