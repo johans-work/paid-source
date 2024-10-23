@@ -79,7 +79,7 @@ The author must maintain a public listing that describes the product and how to 
 
 
 
-# Just Like Books
+# Think Books
 
 Software, when packaged, has always sold like books.
 
