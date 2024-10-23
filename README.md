@@ -19,7 +19,9 @@ Their receipt will act as proof of ownership, and grant them ownership rights.
 
 You already know how easy and free making copies are. There is no value in a copy. But there is value in ownership. You would pay for ownership.
 
-You also already know when you stole something, and that it's bad, especially if it's someone's work. Even those that do steal, might do it because it's bad, if not out of necessity, or the need to be bad. So there is nothing legal or that the government teaches us that prevents us from stealing. Most of us do not steal.
+You also already know when you stole something, and that it's bad, especially if it's someone's work. Even those that do steal know it's bad. 
+
+The point is, the government is't what prevents us from stealing. Most of us just do not steal.
 
 Today, and especially online, almost all transactions have no legal or government enforcement, and licenses and copyright laws really are inconsequential to average consumers. Lawyers only chase big fish, and the police don't arrest liars insisting their order was stolen. Bad actors exist, but they're a minority, and mostly chalked up as the cost of doing business, even by the banks, even by the credit card companies, and even by the government.
 
