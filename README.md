@@ -2,15 +2,15 @@
 
 # Paid Source
 
-Paid Source is a permissive license you can freely use to get paid for your work. Based on the fundamental principle of reciprocity and of responsible ownership, Paid Source proposes a simple value proposition, where, if your work is worth it, you will get paid for it. 
-
 Sell the right to say "I own this" and for it to be true. Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale. 
 
-Paid Source is a new simple and convenient way to get paid for your digital work, for both the buyer and you, backed by capitalism and scientific evidence. 
+Paid Source is a new simple and convenient way to get paid for your digital work, for both the buyer and you, backed by first priciples of capitalism, reciprocity, and science. 
+
+Simply use the license, and get paid if your work is worth it.
 
 # How does it work?
 
-Simply include a link to your product profile which shows cost of ownership along with convenient ways to pay. Their receipt will act as proof of ownership, and grant them ownership rights.
+Be sure to include a clear working the product you are selling, its cost of ownership, and convenient ways to pay. Their receipt will act as proof of ownership, and grant them ownership rights.
 
 # Why does it work?
 
