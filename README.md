@@ -2,11 +2,9 @@
 
 # Paid Source
 
-Sell the right to say "I own this" and for it to be true. Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale. 
+Simply sell the right to say "I own this" and for it to be true. Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale. 
 
-Paid Source is a new simple and convenient way to get paid for your digital work, for both the buyer and you, backed by first priciples. 
-
-Simply use the license, and get paid if your work is worth it.
+Paid Source is a new simple and convenient way to get paid for your digital work, for both the buyer and you. Simply use the license, and get paid if your work is worth it.
 
 # How does it work?
 
