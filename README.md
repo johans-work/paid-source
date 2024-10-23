@@ -40,10 +40,9 @@ With most free software and digital content, you've already given the consumer t
 Paid Source is simply about getting your value logistics right, by making the value proposition transparent and timely, and by providing a convenient way to pay. Their receipt will act as proof of ownership, and grant them ownership rights. And in exchange, you get paid.
 
 
+# Is it Open Source?
 
-# Is it open source?
-
-The term "open source" is avoided to avoid conflicts with other definitions or politics. However, your source, and the work, is made available, visible, and free, even before any transactions take place.
+The term "Open Source" is avoided to avoid any confusion or politics. With Paid Source, the source is made available before any transactions take place. The only stipulation is that ownership of the copy is not granted until purchased. That's it. 
 
 
 # Basic Pricing Template
