@@ -8,7 +8,7 @@ Paid Source is a new simple and convenient way to get paid for your digital work
 
 # How does it work?
 
-With every copy you distribute, include in the license a working link to a web page that includes the following: 
+With every copy you distribute with the license, include a working link to a web page that describes: 
 
 - What you get for what (the value proposition).
 - Ways to pay.
