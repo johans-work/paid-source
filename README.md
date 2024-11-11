@@ -23,7 +23,7 @@ Only the copyright holder may sell ownership of the Asset. Any individual person
 You may buy the asset here: [purchase page]
 
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Asset.
 
 
 # What is it?
