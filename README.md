@@ -17,7 +17,10 @@ Just copy and paste the following:
 
 Permission is hereby granted, free of charge, to any individual person or entity obtaining a copy of this digital asset and associated files (the "Asset"), to borrow the Asset without restriction, including without limitation the rights to use, copy, modify, merge, publish, or distribute copies of the Asset, and to permit any individual person or entity to whom the Asset is furnished to do so, subject to the following conditions:
 
-Only the copyright holder may sell ownership of the Asset. Any individual person may borrow the Asset indefinitely. Any non-individual entity may borrow the Asset for up to 1 year, after which they must remove the Asset from their systems. You may buy the asset here: [purchase page]
+Only the copyright holder may sell ownership of the Asset. Any individual person may borrow the Asset indefinitely, and any non-individual entity may borrow the Asset for up to 1 year, after which they must remove the Asset from their systems. 
+
+
+You may buy the asset here: [purchase page]
 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
