@@ -11,10 +11,17 @@ Prepare two things:
 1. An author profile link.
 2. A payment page link.
 
+Just copy and paste the following:
 
-Just copy and paste the following. 
+Permission is hereby granted, free of charge, to any individual person (excluding non-individual persons) obtaining a copy of this digital asset and associated files (the "Asset"), to borrow the Asset without restriction, including without limitation the rights to use, copy, modify, merge, publish, or distribute copies of the Asset, and to permit persons to whom the Asset is furnished to do so, subject to the following conditions:
 
-# Huh?
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Only the copyright holder may sell ownership of the Asset.
+Any individual person may borrow the Asset indefinitely, and may pay to own the Asset.
+Any non-individual legal entity may borrow the Asset for up to 1 year, after which they must remove the Asset from their systems or pay to own the Asset.
+
+
+# What is it?
 
 Paid Source is a new simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale. 
 
