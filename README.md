@@ -4,7 +4,22 @@
 
 Sell the right to say "I own this" and for it to be true, with a receipt as evidence.
 
+# Use It Now
+
+Prepare two things:
+
+1. An author profile link.
+2. A payment page link.
+
+
+Just copy and paste the following. 
+
+# Huh?
+
 Paid Source is a new simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale. 
+
+# Why should you use it?
+
 
 # How does it work?
 
@@ -40,6 +55,8 @@ Think of Paid Source as value logistics.
 With most free software and digital content, you've already given the consumer the product. The transaction already happened. There is no value proposition left. Hence, the call for donations. But you're not offeriing anything in return. That's not a value proposition. It's charity. It's not capitalism, and it's not a win-win either, if authors cannot sustain their work. Your work also becomes charity.
 
 Paid Source is simply about getting your value logistics right, by making the value proposition transparent and timely, and by providing a convenient way to pay. Their receipt will act as proof of ownership, and grant them ownership rights. And in exchange, you get paid.
+
+
 
 
 # Is it Open Source?
