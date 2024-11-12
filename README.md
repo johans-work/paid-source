@@ -10,7 +10,7 @@ Prepare a purchase page link, then just copy and paste the following:
 
 Copyright YYYY [Your Name]
 
-Distributed under the Paid Source License. Support the author and pay to own a copy here: [purchase page link]
+Pay to own a copy here: [purchase page link]
 
 Permission is hereby granted, free of charge, to any individual person or entity obtaining a copy of this digital asset and associated files (the "Asset"), to borrow the Asset without restriction, including without limitation the rights to use, copy, modify, merge, publish, or distribute copies of the Asset, and to permit any individual person or entity to whom the Asset is furnished to do so, subject to the following conditions:
 
