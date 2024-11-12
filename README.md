@@ -3,10 +3,10 @@
 <pre>
 Paid Source License
 
-[ASSET NAME]
+[ASSET NAME]<br>
 Copyright (c) [YEAR] [AUTHOR]
-
-Pay to own a copy here: [PURCHASE PAGE URL]
+  
+Pay to own your copy here: [PURCHASE PAGE URL]
 
 Permission is hereby granted, free of charge, to any individual person or entity
 obtaining a copy of this digital asset and associated files (the "Asset"), to 
