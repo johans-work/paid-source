@@ -6,20 +6,15 @@ Sell the right to say "I own this" and for it to be true, with a receipt as evid
 
 # Use It Now
 
-Prepare two things:
+Prepare a purchase page link, then just copy and paste the following:
 
-1. An author profile link.
-2. A purchase page link.
-
-Just copy and paste the following:
-
-(c) [Your Name] [Profile Link]
+Copyright ©YYYY [Your Name]. All rights reserved. 
+Paid Source License. Support the author and pay to own a copy here: [purchase page link]
 
 Permission is hereby granted, free of charge, to any individual person or entity obtaining a copy of this digital asset and associated files (the "Asset"), to borrow the Asset without restriction, including without limitation the rights to use, copy, modify, merge, publish, or distribute copies of the Asset, and to permit any individual person or entity to whom the Asset is furnished to do so, subject to the following conditions:
 
 Only the copyright holder may sell ownership of the Asset. Any individual person may borrow the Asset indefinitely, and any non-individual entity may borrow the Asset for up to 1 year, after which they must remove the Asset from their systems. 
 
-Ownership of the Asset may be purchased here: [purchase page]
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Asset.
 
