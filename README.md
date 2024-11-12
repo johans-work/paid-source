@@ -17,7 +17,7 @@ to the following conditions:
 
 Only the copyright holder may sell ownership of the Asset. Any individual person 
 may borrow the Asset INDEFINITELY, and any non-individual entity may borrow the
-Asset for up to ONE YEAR, after which retention violates the law.
+Asset for up to THIRTY DAYS, after which retention violates the law.
 
 The above copyright notice and this permission notice shall be included in all 
 copies or substantial portions of the Asset.
@@ -36,7 +36,7 @@ Sell the right to say "I own this" and for it to be true, with a receipt as evid
 
 Paid Source is just a simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale.
 
-The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, and expanding Software to Asset. It is meant and designed to be apolitical. The default recommended borrowing limit is INDEFINITE for individuals and 1 YEAR for entities. The only dependency is the purchase link which may expire or even be spoofed. The use of a paidsource.wiki link or similar here is highly recommended, but not required.
+The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, and expanding Software to Asset. It is meant and designed to be apolitical. The default recommended borrowing limit is INDEFINITE for individuals and THIRTY DAYS for entities. The only dependency is the purchase link which may expire or even be spoofed. The use of a paidsource.wiki link or similar here is highly recommended, but not required.
 
 Feel free to modify the license as you see fit!
 
