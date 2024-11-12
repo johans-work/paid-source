@@ -32,32 +32,24 @@ OR THE USE OR OTHER DEALINGS IN THE ASSET.
 
 # What is it?
 
-Sell the right to say "I own this" and for it to be true, with a receipt as evidence.
+Sell the right to say "I own this" and for it to be true, with proof of purchase as proof of ownership, granting ownership rights.
 
 Paid Source is just a simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale.
 
 The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, expanding Software to Asset, and including the name of the Asset with the license. It is meant and designed to be apolitical and neutral. The only statement the license is intended to make is that you did a little homework on licenses, and you chose this one.
 
-The default recommended borrowing limit is INDEFINITE for individuals and THIRTY DAYS for entities. The only dependency is the purchase link which may expire or even be spoofed. The use of a paidsource.wiki link or similar here is highly recommended, but not required.
+The default recommended borrowing limit is INDEFINITE for individuals and THIRTY DAYS for entities. The only external dependency is the purchase link which may expire or even be spoofed. The use of a paidsource.wiki link or similar  is highly recommended, but not required.
 
-Feel free to modify the license as you see fit!
-
-
-
-
+Modify the license as you see fit!
 
 # Why should you use it?
 
+Primarily for one reason: 
 
+So that you may continue work on the Asset.
 
-# How does it work?
+Income allows you to work, and only work that pays can make up for work that doesn't. If a work has value, it's only right that it be sold. Capitalism was built to allow innovators and creators to get paid for the value they create, with consumers already ready to pay. Though capitalism doesn't force anyone to participate, by you not doing so, you prevent yourself from being able to work on your work.
 
-With every copy you distribute with the license, include a working link to a web page that describes: 
-
-- What you get for what (the value proposition).
-- Ways to pay.
-  
-Their receipt will act as proof of ownership, and grant them ownership rights.
 
 # Why does it work?
 
