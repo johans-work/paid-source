@@ -2,9 +2,6 @@
 
 # Paid Source License
 
-Sell the right to say "I own this" and for it to be true, with a receipt as evidence.
-
-# Use It Now
 
 <b>Copyright [YEAR] [YOUR NAME]
 
@@ -20,6 +17,8 @@ THE ASSET IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 </b>
 
 # What is it?
+
+Sell the right to say "I own this" and for it to be true, with a receipt as evidence.
 
 Paid Source is just a simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale.
 
