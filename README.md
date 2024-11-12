@@ -19,9 +19,7 @@ Permission is hereby granted, free of charge, to any individual person or entity
 
 Only the copyright holder may sell ownership of the Asset. Any individual person may borrow the Asset indefinitely, and any non-individual entity may borrow the Asset for up to 1 year, after which they must remove the Asset from their systems. 
 
-
-You may buy the asset here: [purchase page]
-
+Ownership of the Asset may be purchased here: [purchase page]
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Asset.
 
