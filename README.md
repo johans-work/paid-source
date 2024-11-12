@@ -3,7 +3,7 @@
 <pre>
 Paid Source License
 
-[ASSET NAME]<br>
+[ASSET NAME]
 Copyright (c) [YEAR] [AUTHOR]
   
 Pay to own your copy here: [PURCHASE PAGE URL]
