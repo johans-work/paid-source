@@ -1,6 +1,6 @@
 (draft)
 
-# Paid Source
+# Paid Source License
 
 Sell the right to say "I own this" and for it to be true, with a receipt as evidence.
 
