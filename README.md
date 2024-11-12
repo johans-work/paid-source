@@ -16,8 +16,9 @@ Permission is hereby granted, free of charge, to any individual person or entity
 
 Only the copyright holder may sell ownership of the Asset. Any individual person may borrow the Asset indefinitely, and any non-individual entity may borrow the Asset for up to 1 year, after which they must remove the Asset from their systems. 
 
-
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Asset.
+
+THE ASSET IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE ASSET OR THE USE OR OTHER DEALINGS IN THE ASSET.
 
 
 # What is it?
