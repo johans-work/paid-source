@@ -6,8 +6,6 @@ Sell the right to say "I own this" and for it to be true, with a receipt as evid
 
 # Use It Now
 
-Prepare a purchase page link, then just copy and paste the following:
-
 Copyright YYYY [Your Name]
 
 Pay to own a copy here: [purchase page link]
