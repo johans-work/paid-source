@@ -16,8 +16,8 @@ any individual person or entity to whom the Asset is furnished to do so, subject
 to the following conditions:
 
 Only the copyright holder may sell ownership of the Asset. Any individual person 
-may borrow the Asset INDEFINITELY, and any non-individual entity may borrow the
-Asset for up to THIRTY DAYS, after which retention violates the law.
+may borrow the Asset for up to ONE YEAR, and any non-individual entity may borrow 
+the Asset for up to THIRTY DAYS, after which retention violates copyright law.
 
 The above copyright notice and this permission notice shall be included in all 
 copies or substantial portions of the Asset.
@@ -36,9 +36,9 @@ Sell the right to say "I own this" and for it to be true, with proof of purchase
 
 Paid Source is just a simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale.
 
-The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, expanding Software to Asset, and including the name of the Asset with the license. It is meant and designed to be apolitical and neutral. The only statement the license is intended to make is that you did a little homework on licenses, and you chose this one.
+The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, expanding Software to Asset, and including the name of the Asset with the license. It is meant and designed to be apolitical and neutral. The only statement the license is intended to make is that you did a little homework on licenses, and you chose the best one.
 
-The default recommended borrowing limit is INDEFINITE for individuals and THIRTY DAYS for entities. The only external dependency is the purchase link which may expire or even be spoofed. The use of a paidsource.wiki link or similar  is highly recommended, but not required.
+The default recommended borrowing limit is ONE YEAR for individuals and THIRTY DAYS for entities. The only external dependency is the purchase link which may expire or even be spoofed. The use of a paidsource.wiki link or similar  is highly recommended, but not required.
 
 Modify the license as you see fit!
 
@@ -46,10 +46,11 @@ Modify the license as you see fit!
 
 Primarily for one reason: 
 
-So that you may continue work on the Asset.
+To continue the work that produced the Asset.
 
-Income allows you to work, and only work that pays can make up for work that doesn't. If a work has value, it's only right that it be sold. Capitalism was built to allow innovators and creators to get paid for the value they create, with consumers already ready to pay. Though capitalism doesn't force anyone to participate, by you not doing so, you prevent yourself from being able to work on your work.
+Income allows for work, and only work that pays can make up for work that doesn't. If a work has value, it's only right that it be sold. Capitalism was built to allow innovators and creators to get paid for the value they create, with consumers already lined up and ready to pay. Though capitalism doesn't force anyone to participate, by you not doing so, you prevent yourself from being able to work on your work, and from anyone that enjoys your work from supporting you easily.
 
+The reason most 
 
 # Why does it work?
 
