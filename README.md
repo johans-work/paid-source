@@ -36,9 +36,15 @@ Sell the right to say "I own this" and for it to be true, with a receipt as evid
 
 Paid Source is just a simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale.
 
-The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, expanding Software to Asset, and including the name of the Asset with the license. It is meant and designed to be apolitical. The default recommended borrowing limit is INDEFINITE for individuals and THIRTY DAYS for entities. The only dependency is the purchase link which may expire or even be spoofed. The use of a paidsource.wiki link or similar here is highly recommended, but not required.
+The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, expanding Software to Asset, and including the name of the Asset with the license. It is meant and designed to be apolitical and neutral. The only statement the license is intended to make is that you did a little homework on licenses, and you chose this one.
+
+The default recommended borrowing limit is INDEFINITE for individuals and THIRTY DAYS for entities. The only dependency is the purchase link which may expire or even be spoofed. The use of a paidsource.wiki link or similar here is highly recommended, but not required.
 
 Feel free to modify the license as you see fit!
+
+
+
+
 
 # Why should you use it?
 
