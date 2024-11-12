@@ -6,13 +6,13 @@ Sell the right to say "I own this" and for it to be true, with a receipt as evid
 
 # Use It Now
 
-Copyright YYYY [Your Name]
+Copyright [YEAR] [YOUR NAME]
 
-Pay to own a copy here: [purchase page link]
+Pay to own a copy here: [PURCHASE PAGE URL]
 
 Permission is hereby granted, free of charge, to any individual person or entity obtaining a copy of this digital asset and associated files (the "Asset"), to borrow the Asset without restriction, including without limitation the rights to use, copy, modify, merge, publish, or distribute copies of the Asset, and to permit any individual person or entity to whom the Asset is furnished to do so, subject to the following conditions:
 
-Only the copyright holder may sell ownership of the Asset. Any individual person may borrow the Asset indefinitely, and any non-individual entity may borrow the Asset for up to 1 year, after which retention will violate copyright law. 
+Only the copyright holder may sell ownership of the Asset. Any individual person may borrow the Asset INDEFINITELY, and any non-individual entity may borrow the Asset for up to ONE YEAR, after which retention violates the law.
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Asset.
 
@@ -21,9 +21,12 @@ THE ASSET IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 # What is it?
 
-Paid Source is a new simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale. 
+Paid Source is a new simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale.
+
+The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, and expanding Software to Asset. It is meant and designed to be apolitical. The default recommended borrowing limit is INDEFINITE for individuals and 1 YEAR for entities. Feel free to modify as you see fit!
 
 # Why should you use it?
+
 
 
 # How does it work?
