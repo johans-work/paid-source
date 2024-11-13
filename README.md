@@ -30,7 +30,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE A
 OR THE USE OR OTHER DEALINGS IN THE ASSET.
 </pre>
 
-# What is it?
+# A Free License That Pays
 
 Sell the right to say "I own this" and for it to be true, with proof of purchase as proof of ownership, granting ownership rights.
 
@@ -42,7 +42,7 @@ The default recommended borrowing limit is ONE YEAR for individuals and THIRTY D
 
 Modify the license as you see fit!
 
-# Why should you use it?
+# Support Your Good Work
 
 So you can continue producing Assets.
 
