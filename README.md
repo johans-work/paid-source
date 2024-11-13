@@ -34,7 +34,7 @@ OR THE USE OR OTHER DEALINGS IN THE ASSET.
 
 Sell the right to say "I own this" and for it to be true, with proof of purchase as proof of ownership, granting ownership rights.
 
-Paid Source is just a simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the free copies, and turn them into leads for your next sale.
+Paid Source is just a simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the copies to turn them into leads for more sales.
 
 The license itself is a simple revision of the MIT license, adding language surrounding borrowing and ownership, expanding Software to Asset, and including the name of the Asset with the license. It is meant and designed to be apolitical and neutral. The only statement the license is intended to make is that you did a little homework on licenses, and you chose the best one.
 
@@ -44,9 +44,11 @@ Modify the license as you see fit!
 
 # Support Your Good Work
 
-So you can continue producing Assets.
+Income allows for work, and only work that pays can make up for work that doesn't. 
 
-Income allows for work, and only work that pays can make up for work that doesn't. If a work has value, it's only right that it be sold. Capitalism was built to allow innovators and creators to get paid for the value they create, with consumers already lined up and ready to pay. Though capitalism doesn't force anyone to participate, by you not doing so, you prevent yourself from being able to work on your work, and from anyone that enjoys your work from supporting you easily.
+Capitalism was built to allow innovators and creators to get paid for the value they create, with consumers already lined up and ready to pay. Though capitalism doesn't force anyone to participate, by you not doing so, you prevent yourself from being able to work on your work, and from anyone that enjoys your work from supporting you easily.
+
+If a work has value, it's only right that it be sold. 
 
 The reason most 
 
