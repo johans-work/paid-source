@@ -44,11 +44,9 @@ Modify the license as you see fit!
 
 # Support Your Good Work
 
-Income allows for work, and only work that pays can make up for work that doesn't. If a work has value, it can be sold, it will sell, and it's only right that it be sold. 
+Income allows for work, and only work that pays can make up for work that doesn't. If a work has value, it can be sold, will sell, and should be sold. 
 
-Capitalism was built to allow innovators and creators to get paid for the value they create, with consumers already lined up and ready to pay. Though capitalism doesn't force you to participate, by not participating you prevent yourself from doing your best work and from anyone that enjoys your work from supporting you easily.
-
-
+Capitalism allows innovaive creators to get paid for the new value they create, with consumers already lined up ready to pay. Though no one can force you to participate, why prevent yourself from doing your best work and from anyone from supporting you easily?
 
 
 # Backed By Science
