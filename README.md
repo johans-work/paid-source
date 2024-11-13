@@ -46,10 +46,10 @@ Modify the license as you see fit!
 
 Income allows for work, and only work that pays can make up for work that doesn't. If a work has value, it can be sold, will sell, and should be sold. 
 
-Capitalism allows innovative creators to get paid for the new value they create, with consumers already lined up ready to pay. Though no one can force you to participate, why prevent yourself from doing your best work and from anyone from supporting you easily?
+Capitalism allows innovative creators to get paid for the new value they create, with consumers already lined up ready to pay. Though capitalism cannot force you to participate, preventing anyone from supporting you easily would just be you preventing yourself from being supported easily.
 
 
-# Backed By Science
+# The Science That Backs It
 
 You already know how easy and free making copies are. There is no value in a copy. But there is value in ownership. You would pay for ownership.
 
