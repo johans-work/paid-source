@@ -120,7 +120,7 @@ The author must maintain a public listing that describes the product and how to 
 
 
 
-# Think Books
+# The Perfect Example: Books
 
 Software, when packaged, has always sold like books.
 
