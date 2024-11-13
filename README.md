@@ -30,7 +30,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE A
 OR THE USE OR OTHER DEALINGS IN THE ASSET.
 </pre>
 
-# A Free License That Pays
+# The Free License That Pays
 
 Sell the right to say "I own this" and for it to be true, with proof of purchase as proof of ownership, granting ownership rights.
 
