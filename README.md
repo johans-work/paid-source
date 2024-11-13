@@ -46,7 +46,7 @@ Modify the license as you see fit!
 
 Income allows for work, and only work that pays can make up for work that doesn't. If a work has value, it can be sold, will sell, and should be sold. 
 
-Capitalism allows innovaive creators to get paid for the new value they create, with consumers already lined up ready to pay. Though no one can force you to participate, why prevent yourself from doing your best work and from anyone from supporting you easily?
+Capitalism allows innovative creators to get paid for the new value they create, with consumers already lined up ready to pay. Though no one can force you to participate, why prevent yourself from doing your best work and from anyone from supporting you easily?
 
 
 # Backed By Science
