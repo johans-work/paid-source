@@ -43,10 +43,11 @@ The default recommended borrowing limit is ONE YEAR for individuals and THIRTY D
 
 # Support Your Good Work
 
-Income allows for work, and only work that pays can make up for work that doesn't. If a work has value, it can be sold, will sell, and should be sold. 
+Income allows for work, and only work that pays can make up for work that doesn't. 
 
 Capitalism allows innovative creators to get paid for the new value they create, with consumers already lined up ready to pay. Though capitalism cannot force you to participate, why prevent others from supporting your work? At what point is that on you?
 
+If an asset has value, it can be sold, will sell, and should be sold, so that you can produce more of it. Not only will your users agree, they will pay you.
 
 # The Science That Backs It
 
