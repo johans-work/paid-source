@@ -50,7 +50,7 @@ Income allows for work, and only work that pays can make up for work that doesn'
 
 The reason most 
 
-# The Science Behind The License
+# Backed By Science
 
 You already know how easy and free making copies are. There is no value in a copy. But there is value in ownership. You would pay for ownership.
 
