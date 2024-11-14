@@ -51,7 +51,7 @@ Capitalism allows innovative creators to get paid for the new value they create,
 
 If an asset has value, it can be sold, will sell, and should be sold, so that you can produce more of it. Not only will your users agree, they will pay you.
 
-# The Science That Backs It
+# Proof
 
 You already know how easy and free making copies are. There is no value in a copy. But there is value in ownership. You would pay for ownership.
 
