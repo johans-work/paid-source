@@ -36,7 +36,7 @@ OR THE USE OR OTHER DEALINGS IN THE ASSET.
 
 Sell the right to say "I own this" and for it to be true, with proof of purchase as proof of ownership, granting ownership rights.
 
-Paid Source is just a simple and convenient way to get paid for your digital work, for both the buyer and you. Just use the license, and get paid if your work is worth it.  Give copies, sell ownership. Free the copies to turn them into leads for more sales.
+Give copies, sell ownership. Free the copies to turn them into leads for more sales. Then get paid when your work proves its value.
 
 The license itself is meant to be apolotical and neutral, and is a simple revision of the MIT license, adding language surrounding borrowing and ownership, expanding Software to Asset, and including the name of the Asset with the license. The only statement the license is intended to make is that you did a little homework on licenses, and you chose the best one. 
 
